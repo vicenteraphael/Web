@@ -1,0 +1,6 @@
+faça um código em javascript que
+percorre um array de números inteiros
+e que, para cada elemento, exiba
+a distância entre ele mesmo e o
+e seu oposto na reta real (usando
+o método forEach)

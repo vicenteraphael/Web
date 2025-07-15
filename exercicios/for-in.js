@@ -1,3 +1,5 @@
+//qual a saída?
+
 let str = "jandui"
 let cript = new Array()
 let chave = 12

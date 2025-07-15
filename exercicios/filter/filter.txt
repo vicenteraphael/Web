@@ -1,0 +1,6 @@
+
+faça um código que percorra um array
+contendo os números inteiros
+de 1 a 100 e gere um novo
+array contendo apenas os números 
+divisíveis por 7.
