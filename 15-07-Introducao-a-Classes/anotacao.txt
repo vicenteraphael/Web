@@ -1,0 +1,27 @@
+Classes
+
+UML: (+/- e ~/#)
+
++ -> encapsulamento público (pode ser acessado de qualquer lugar),;
+- -> encapsulamento privado (acesso restrito à própria classe);
+# -> encapsulamento protegido (acesso pela classe e subclasses) e
+~ -> (package-private) para acesso dentro do mesmo pacote. 
+
+
+|------------|
+|   Classe   |
+|------------|
+| -Atributos |
+|------------|
+| Métodos    |
+|------------|
+
+
+Javascript: apenas +/-
+
+
+Tipos de Métodos:
+
+Constrututores
+Com retorno (return)
+Sem retorno

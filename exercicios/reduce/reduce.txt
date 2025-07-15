@@ -1,0 +1,5 @@
+/*
+faça um código que percorra o array:
+let elementos = [2, 5, 1, 4, 6, 7]
+e retorne a média aritmética dos número pares
+*/

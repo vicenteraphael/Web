@@ -1,3 +1,7 @@
+/*
+
+*/
+
 // qual será a saída?
 
 let arr = new Array()
